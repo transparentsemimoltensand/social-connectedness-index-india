@@ -6,8 +6,8 @@ A robust, high-performance spatial analytics and interactive visualization pipel
 
 ## Interactive Dashboards & Execution Links
 
-- **Interactive District-to-District Connectivity Map**: [Explore Live Map (Hugging Face)](https://huggingface.co/spaces/farhansk6768/india-sci-maps/raw/main/india_sci_interactive%20(34).html)
-- **Interactive District-to-Country Global Map**: [Explore Live Map (Hugging Face)](https://huggingface.co/spaces/farhansk6768/india-sci-maps/raw/main/country_to_district_map.html)
+- **Interactive District-to-District Connectivity Map**: [Explore Live Map (Hugging Face)](https://huggingface.co/spaces/farhansk6768/india-sci-maps/blob/main/india_sci_interactive%20(34).html)
+- **Interactive District-to-Country Global Map**: [Explore Live Map (Hugging Face)](https://huggingface.co/spaces/farhansk6768/india-sci-maps/blob/main/country_to_district_map.html)
 - **Full Executable Pipeline & Source Notebook**: [View Notebook on Kaggle](https://www.kaggle.com/code/mohdfarhanshaikh/social-connectedness-index-india)
 
 ---
@@ -102,15 +102,15 @@ To inspect, run, or replicate the data processing pipeline:
 
 1. **Access the Kaggle Environment**:
    Navigate to the official notebook repository:
-   [Kaggle Notebook: Social Connectedness Index India](https://www.kaggle.com/code/mohdfarhanshaikh/social-connectedness-index-india)
+   [)
 
 2. **Execute the Pipeline**:
    Run the notebook cells sequentially to ingest raw Meta SCI dumps, execute DuckDB spatial transformations, normalize boundary IDs, and compile the interactive Folium/Leaflet HTML artifacts.
 
 3. **Explore Live Dashboards**:
-   Access the fully rendered, high-resolution interactive dashboards hosted directly via Hugging Face Spaces:
-   - [District Connectivity Dashboard](https://huggingface.co/spaces/farhansk6768/india-sci-maps/raw/main/india_sci_interactive%20(34).html)
-   - [Global Outward Linkage Dashboard](https://huggingface.co/spaces/farhansk6768/india-sci-maps/raw/main/country_to_district_map.html)
+   Access the fully rendered, high-resolution interactive dashboards by downloading html fies from Hugging Face Spaces:
+   - [District Connectivity Dashboard](https://huggingface.co/spaces/farhansk6768/india-sci-maps/blob/main/india_sci_interactive%20(34).html)
+   - [Global Outward Linkage Dashboard](https://huggingface.co/spaces/farhansk6768/india-sci-maps/blob/main/country_to_district_map.html)
 
 ---
 
